@@ -1,5 +1,5 @@
 # clone-site
-A Simple Website I Tried Cloning A Site Using HTML & CSS
+A Simple Website I Tried Cloning Using HTML & CSS
 
 I linked the original website screenshot on the site, its also in the folder
 
